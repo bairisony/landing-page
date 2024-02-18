@@ -1,0 +1,48 @@
+body
+{
+    text-align: center;
+    color:block;
+   background-color: rgb(179, 87, 117) ;
+   border: 43px solid #7e0227;
+
+   margin: 0px;
+
+   h1
+{
+    color:black;
+} 
+
+h2
+{
+    color:#7e0227; 
+}
+h3
+{
+    color: gray;
+}
+
+strike
+{
+    background-color:yellow;
+    color:red;
+}
+
+input
+{
+    height: 30px;
+    width: 250px;
+    border: 2px solid#7e0227 ;
+    border-radius:25px ;
+    padding-left:2% ;
+    font-weight: bold;
+    
+}
+
+.myclass
+{
+  background-color:rgba(248, 41, 113, 0.879);
+  color: white;
+  font-size: 20px;
+  margin: 25px;
+}
+
